@@ -13,12 +13,6 @@ Back-office + front pour une boutique “réseau” (switch, routeur) :
 - [Stack](#-stack)
 - [Prérequis](#-prérequis)
 - [Setup rapide (Windows + WAMP + phpMyAdmin)](#️-setup-rapide-windows--wamp--phpmyadmin)
-- [Démarrer en local](#️-démarrer-en-local)
-- [Scripts utiles](#-scripts-utiles)
-- [Où sont les choses importantes ?](#️-où-sont-les-choses-importantes-)
-- [Endpoints clés (Stripe)](#-endpoints-clés-stripe)
-- [Dépannage rapide](#-dépannage-rapide)
-- [Licence](#-licence)
 
 ---
 
